@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<server-conf>
+	<server-name>InterfaceRefund Service</server-name>
+	<app-name>IntRefundAppSrv</app-name>
+	<user>IntRefundAppSrvUser</user>
+	<pwd>IntRefundAppSrvPwd</pwd>
+	<!-- yhbf加密
+		<enc-pwd>IntRefundAppSrvPwd</enc-pwd>
+	 -->
+	<host>10.1.101.217</host>
+	<port>6004</port>
+	<link-time>3000</link-time>
+	<selector-timeout>2000</selector-timeout>
+	<pulse-time>600000</pulse-time>
+</server-conf>
